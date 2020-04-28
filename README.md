@@ -28,3 +28,5 @@ Este projeto é composto de duas rotas
 
 Com o objetivo efetuar o upload de arquivos para o servidor e tem como dependencia um [back-end](https://github.com/despossivel/rocketBox-back-end)
 
+
+[@despossivel](https://www.linkedin.com/in/despossivel/)
