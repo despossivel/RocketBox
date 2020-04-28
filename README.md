@@ -1,20 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
  
+Para inciar o projeto
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Cria o aplicativo para produção na pasta `build`. <br>
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
- 
+## Rotas
+
+Este projeto é composto de duas rotas
+
+/
+
+![main](./public/mockup/mockup.png)
+
+/box/:id
+
+![box](./public/mockup/mockup2.png)
+
+Com o objetivo efetuar o upload de arquivos para o servidor e tem como dependencia um [back-end](https://github.com/despossivel/upload-back-end)
+
