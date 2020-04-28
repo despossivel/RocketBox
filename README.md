@@ -26,5 +26,5 @@ Este projeto é composto de duas rotas
 
 ![box](./public/mockup/mockup2.png)
 
-Com o objetivo efetuar o upload de arquivos para o servidor e tem como dependencia um [back-end](https://github.com/despossivel/upload-back-end)
+Com o objetivo efetuar o upload de arquivos para o servidor e tem como dependencia um [back-end](https://github.com/despossivel/rocketBox-back-end)
 
